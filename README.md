@@ -1,3 +1,4 @@
+![Embedded Java](/logo.png)
 This project aims to collect a useful toolkit of Java classes intended for embedded use.
 
 General characteristics of this code are:
